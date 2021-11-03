@@ -4,10 +4,10 @@ import datetime
 
 print "STARTED AT ",str(datetime.datetime.now()),"\N"
 
-PATH = "/Python/Scripts/MitraKavian_CSVCompare/CAT1_CATG/REF/"
-SAVE_PATH = "/Python/Scripts/MitraKavian_CSVCompare/Splited/"
-CAT_ONE_PATH = "/Python/Scripts/MitraKavian_CSVCompare/Splited/CAT1/"
-CAT1_SPLITED_PATH = "/Python/Scripts/MitraKavian_CSVCompare/CAT1_SPLITTED/"
+PATH = "/Python/Scripts/../CAT1_CATG/REF/"
+SAVE_PATH = "/Python/Scripts/.../Splited/"
+CAT_ONE_PATH = "/Python/Scripts/.../Splited/CAT1/"
+CAT1_SPLITED_PATH = "/Python/Scripts/.../CAT1_SPLITTED/"
 CAT1_SPLITED_FILENAME = "CAT_ONE_SPLITED.csv"
 
 HEADERS_LIST = list()
