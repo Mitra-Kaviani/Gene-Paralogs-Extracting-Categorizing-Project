@@ -1,0 +1,27 @@
+"tissue","Glyma.01G008500","Glyma.16G077800"
+"Nodules.symbiotic condition",TRUE,TRUE
+"Root.symbiotic condition",TRUE,TRUE
+"Root.ammonia",TRUE,TRUE
+"Leaf.standard",TRUE,TRUE
+"Root.urea",TRUE,TRUE
+"Shoot tip.standard",FALSE,FALSE
+"Seed",TRUE,TRUE
+"Leaf.nitrate",TRUE,TRUE
+"Root.nitrate",TRUE,TRUE
+"Leaf.urea",TRUE,TRUE
+"Root tip.standard",TRUE,TRUE
+"Root.standard",TRUE,TRUE
+"Leaf.ammonia",TRUE,TRUE
+"Flower.unopen",TRUE,TRUE
+"Flower.open",TRUE,TRUE
+"Leaf.symbiotic condition",TRUE,TRUE
+"Stem.standard",TRUE,TRUE
+"Lateral root.standard",TRUE,TRUE
+"Shoot Apical Meristem",TRUE,TRUE
+"Leaves",TRUE,TRUE
+"Flower",TRUE,TRUE
+"Root Hairs",TRUE,TRUE
+"Nodules",TRUE,TRUE
+"Pod",TRUE,TRUE
+"Root",TRUE,TRUE
+"Stem",TRUE,TRUE
